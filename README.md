@@ -24,6 +24,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pana-g&show_icons=true&locale=en&theme=dracula" alt="pana-g" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pana-g&theme=dracula" alt="pana-g" /></p>
-
-<p align="center"><img align="center" src="https://github.com/pana-g/pana-g/blob/output/github-contribution-grid-snake.svg" alt="snake animation" /></p>
+<p align="center"><img align="center" src="https://github.com/pana-g/pana-g/blob/output/github-snake-dark.svg" alt="snake animation" /></p>
