@@ -7,7 +7,7 @@
 
 <p align="center"> 🔭 I’m currently working on <strong>several projects</strong> </p>
 
-<p align="center"> 📫 How to reach me <strong>georgepanangiotou@gmail.com</strong> </p>
+<p align="center"> 📫 How to reach me <strong>panageo94@gmail.com</strong> </p>
 
 <p align="center"> ⚡ Fun fact <strong>I'm bad at washing dishes</strong> </p>
 
