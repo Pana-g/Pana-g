@@ -10,13 +10,9 @@
 </p>
 
 ---
-
-### 👨‍💻 The "Professional" Breakdown
-- 🔭 **I’m currently working on:** Trying to orchestrate AI agents that autonomously run ML experiments, so I can sit back and supervise them like a middle manager.
-- 🌱 **I’m currently learning:** How to exit Vim (just kidding, I use VS Code like a civilized person).
-- 🐛 **My architecture style:** Over-engineering personal projects and then abandoning them to play with the **new thing**. 
-- 📫 **How to reach me:** **panageo94@gmail.com** (Send memes or job offers. Preferrably both).
-- ⚡ **Fun fact:** I write code that works perfectly on my machine. If it breaks on yours, that's a *you* problem.
+- **I’m currently working on:** Trying to orchestrate AI agents that autonomously run ML experiments, so I can sit back and supervise them like a middle manager.
+- **I’m currently learning:** How to exit Vim (just kidding, I use VS Code like a civilized person).
+- **My architecture style:** Over-engineering personal projects and then abandoning them to play with the **new thing**. 
 
 ### 🛠️ Languages & Tools (The stuff I actually use)
 <p align="center">
